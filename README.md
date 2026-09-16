@@ -4,8 +4,9 @@
 
 **Estudiante:** Fabiola Romani Villanueva  
 **Carrera:** Ingeniería de Sistemas y Computación  
+**Ciclo:** IV 
 **Curso:** Algoritmos y Estructuras de Datos  
-**Periodo académico:** 2026
+**Periodo académico:** 2026 - II
 
 ---
 

@@ -1,0 +1,9 @@
+# 💻 Trabajo 2 - Crear un nuveo Programa 
+
+## 📚 Concepto
+Realiza un nuevo programa donde se va a ingresar notas de los estudiante, la nota mas baja se eliminara y el resto se promediara  
+
+## 📂 Archivos
+
+- `Notas.java`
+- `AplicaNotas.java`
